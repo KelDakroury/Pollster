@@ -17,10 +17,12 @@ cd pollster
 python manage.py runserver
 ```
 ##Adminstrator account:
+
 http://127.0.0.1:8000/admin/
 ```
 username: Karim
 password: kr20520rim
 ```
 ##User webpage:
+
 http://127.0.0.1:8000/
