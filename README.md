@@ -21,7 +21,7 @@ python manage.py runserver
 http://127.0.0.1:8000/admin/
 ```
 username: Karim
-password: kr20520rim
+password: 
 ```
 ### To create a poll: 
 go to polls -> new poll. 
